@@ -1,2 +1,7 @@
 # CNN_Image_Classification
-CNN-based model, LeNet, for binary classification on the CelebA dataset to predict the attribute (smiling/not smiling) of a given picture.
+Implemented CNN-based LeNet model for binary classification image dataset to predict the smiling/not smiling attribute
+• Used SGD optimizer on the training and validation set
+## Hightlights
+* Pytorch
+* CNN based model
+* 89% plus prediction accuracy 
